@@ -45,7 +45,7 @@
     "react-dom": "16.12.0"
   },
   "devDependencies": {
-    "parcel-bundler": "1.12.4",
+    "parcel-bundler": "1.12.3",
     "run-script-os": "1.0.7",
     "sass": "1.25.0",
     "typescript": "^3.7.5"
