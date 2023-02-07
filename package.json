@@ -41,11 +41,11 @@
   },
   "homepage": "https://github.com/r0x0r/pywebview-react-boilerplate#readme",
   "dependencies": {
-    "react": "16.12.0",
-    "react-dom": "16.12.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "parcel-bundler": "1.12.3",
+    "parcel-bundler": "^1.8.1",
     "run-script-os": "1.0.7",
     "sass": "1.25.0",
     "typescript": "^3.7.5"
